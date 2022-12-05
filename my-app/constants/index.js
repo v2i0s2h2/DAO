@@ -1,4 +1,4 @@
-export const NFT_CONTRACT_ABI =  [
+export const CRYPTODEVS_NFT_ABI =  [
     {
       "inputs": [
         {
@@ -583,7 +583,7 @@ export const NFT_CONTRACT_ABI =  [
   ]
 
 ;
-export const NFT_CONTRACT_ADDRESS = "0x4Ec13Cbe3b2aE68C9E2F914D133238536859785e";
+export const CRYPTODEVS_NFT_CONTRACT_ADDRESS = "0x4Ec13Cbe3b2aE68C9E2F914D133238536859785e";
 
 export const CRYPTODEVS_DAO_ABI =  [
     {
